@@ -19,5 +19,5 @@ This is a Telegram bot that fetches the latest news and sends it directly to you
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/telegram-news-bot.git
+   git clone https://github.com/GN-SR/telegram-news-bot.git
    cd telegram-news-bot
