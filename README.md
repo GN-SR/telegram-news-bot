@@ -1,2 +1,23 @@
-# telegram-news-bot
-The Telegram News Bot is a Python-based bot that delivers the latest news directly to your Telegram chat. It leverages the Telegram Bot API and the NewsAPI to fetch and provide current news headlines from various sources. This bot is ideal for users who want to stay updated with the latest news in a convenient and automated manner.
+# Telegram News Bot
+
+This is a Telegram bot that fetches the latest news and sends it directly to your chat.
+
+## Features
+
+- Fetches the latest news from NewsAPI.
+- Responds to the `/news` command in Telegram.
+
+## Setup
+
+### Prerequisites
+
+- Python 3.x
+- Telegram Bot Token
+- NewsAPI Key
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/telegram-news-bot.git
+   cd telegram-news-bot
