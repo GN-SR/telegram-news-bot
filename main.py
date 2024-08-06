@@ -4,9 +4,9 @@ import requests
 import time
 
 # Replace with your own Telegram bot token and News API key
-TELEGRAM_BOT_TOKEN = '7493693595:AAEP4ODNmEZPwQUyez03iLKqyEloQ65F1uA'  # Replace with your Telegram bot token
-NEWS_API_KEY = '5408f52a175b4d21a7ad1ab75a0c0141'  # Replace with your News API key
-NEWS_API_URL = 'https://newsapi.org/v2/top-headlines?country=us&apiKey=5408f52a175b4d21a7ad1ab75a0c0141' 
+TELEGRAM_BOT_TOKEN = 'BOT_API_TOKEN'  # Replace with your Telegram bot token
+NEWS_API_KEY = 'NEWS_API_KEY'  # Replace with your News API key
+NEWS_API_URL = 'https://newsapi.org/v2/top-headlines?country=us&apiKey=NEWS_API_KEY' 
 
 def fetch_latest_news():
     response = requests.get(NEWS_API_URL)
