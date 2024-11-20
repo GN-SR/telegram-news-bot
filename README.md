@@ -43,7 +43,7 @@ Before running the bot, ensure you have the following:
 4. Run the bot:
 
     ```bash
-    python bot.py
+    python main.py
     ```
 
 ## Usage
@@ -59,7 +59,7 @@ Before running the bot, ensure you have the following:
 ```
 telegram-news-bot/
 │
-├── bot.py                # Main script to run the bot
+├── main.py                # Main script to run the bot
 ├── requirements.txt      # Python dependencies
 ├── .env                  # Configuration file (not included in the repo)
 └── README.md             # Project documentation
