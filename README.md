@@ -6,7 +6,6 @@ This is a Telegram bot that fetches the latest news and sends it directly to you
 ## Features
 
 - Fetches the latest news from popular APIs (e.g., NewsAPI, RSS feeds, etc.).
-- Supports customizable news categories (e.g., technology, sports, politics, entertainment).
 - Simple and user-friendly commands to get the news directly.
 - Sends news summaries with headlines, descriptions, and links for full articles.
 
